@@ -1,6 +1,6 @@
 console.log("Background script loaded");
 
-const GEMINI_API_KEY = "AIzaSyDNN7zTO3h_eIE8QeZQ5YgG1DBoa6koBTc";
+const GEMINI_API_KEY = "GEMINI_API_KEY";
 const API_ENDPOINT =
   "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent";
 
