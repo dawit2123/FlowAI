@@ -1,0 +1,11 @@
+.flow-ai-suggestion {
+  display: inline;
+  pointer-events: none;
+  z-index: 999999;
+  padding: 2px 5px;
+  border-radius: 3px;
+  white-space: nowrap;
+  max-width: 600px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
