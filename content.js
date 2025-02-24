@@ -144,7 +144,7 @@ const handleInput = debounce((event) => {
       }
     );
   }
-}, 350);
+}, 3500);
 
 // Handle tab acceptance
 document.addEventListener("keydown", (e) => {
