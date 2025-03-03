@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/-Solo%20Project-f2336f?&style=for-the-badge&logoColor=white" />
 
-## 🌟 Project Vision
+## 🌟 Project Vision 
 
 Welcome to **Flow AI**, a Chrome extension that brings **AI-powered autocomplete** to every text field on the web! Whether you're writing a blog, filling out a form, or composing an email, Flow AI acts as your AI copilot, suggesting completions in real-time. Flow AI enhances your productivity by providing intelligent, context-aware suggestions as you type.
 
